@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Disease,Admission_Type,Admission_Date,Discharge_Date,Length_of_Stay,Treatment,Outcome,Hospital_Bill
+P001,45,Male,Pneumonia,Emergency,2026-01-05,2026-01-10,5,Medication,Recovered,25000
+P002,32,Female,Diabetes,Routine,2026-01-08,2026-01-12,4,Insulin Therapy,Recovered,18000
+P003,60,Male,Heart Disease,Emergency,2026-01-10,2026-01-18,8,Surgery,Recovered,95000
+P004,27,Female,Malaria,Emergency,2026-01-11,2026-01-15,4,Medication,Recovered,15000
+P005,51,Male,Hypertension,Routine,2026-01-13,2026-01-16,3,Medication,Recovered,12000
+P006,39,Female,Asthma,Emergency,2026-01-15,2026-01-19,4,Nebulization,Recovered,17000
+P007,68,Male,Stroke,Emergency,2026-01-17,2026-01-28,11,Surgery,Under Treatment,120000
+P008,22,Female,Typhoid,Routine,2026-01-18,2026-01-22,4,Medication,Recovered,14000
+P009,55,Male,Kidney Stone,Emergency,2026-01-20,2026-01-26,6,Surgery,Recovered,70000
+P010,41,Female,Migraine,Routine,2026-01-22,2026-01-23,1,Medication,Recovered,8000
